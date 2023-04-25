@@ -106,9 +106,3 @@ What you get here:
 * payement system(here used only Stripe in near will add more payment gateway)
 * Deffrent for Dasboard(Admin and User)
 * in dashboard Admin has all kinds of access(CRUD operations, add admin, manage orders and many more)
-
-## Contact
-
-ujjal zaman - [Linkdeind](www.linkedin.com/in/ujjal-zaman)
-
-Project Link: [https://github.com/Ujjalzaman/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
